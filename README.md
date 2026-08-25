@@ -1,6 +1,7 @@
-<picture>
-    <div align="center"><img src="./assets/sayaka.jpg" height="359" width="637" alt="Image"/></div>
-</picture>
+<p align="center">
+  <img src="./assets/sayaka.jpg" alt="Image" style="max-width: 100%; height: auto;" width="637" />
+</p>
+
 
 ### Hi there. I'm Dignity. 👋
 
