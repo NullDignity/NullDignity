@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sayaka.jpg" alt="Image" style="max-width: 100%; height: auto;" width="637" />
+  <img src="./assets/godknowstherest.gif" alt="Image" style="max-width: 100%; height: auto;" width="637" />
 </p>
 
 
